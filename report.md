@@ -1,5 +1,5 @@
 # Reporte
-![](https://i.imgur.com/quPfUjZ.png)
+![](https://i.imgur.com/pBeXok7.png)
 
 ### Nombres
 
